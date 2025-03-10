@@ -1,4 +1,4 @@
-# Projeto-4-TripleTen
+# Projeto 4 TripleTen
 Projeto 4 Bootcamp Análise de Dados
 
 # Descrição do projeto:
@@ -11,8 +11,6 @@ Você vai realizar uma análise preliminar dos planos com base em uma pequena se
 ## Descrição dos planos
 
 **Observação:** a Megaline arredonda segundos para minutos e megabytes para gigabytes. Para chamadas, cada chamada individual é arredondada para cima: mesmo que uma chamada tenha durado apenas um segundo, um minuto será contado. Para tráfego da web, sessões individuais da web não são arredondadas para cima. Ao invés disso, o total do mês é arredondado para cima. Se alguém usar 1.025 megabytes no mês, a cobrança será de 2 gigabytes.
-
-**Aqui está uma descrição dos planos:**
 
 **Surf**
 
